@@ -1,6 +1,6 @@
 
 # Mapbox - тестовое задание
-
+- Deploy - (https://rad-twilight-51a602.netlify.app)
 
 
 
